@@ -3,7 +3,11 @@
     "title": "threat dragon demo"
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "test"
+      }
+    ],
     "diagrams": []
   }
 }
